@@ -91,6 +91,6 @@ Sep 2020 – Jul 2021
 
 <div align="center">
 💡 "Turning data into decisions, insights into impact"
-Show Image
+
 ⭐️ From Maitrayee Vishnu
 </div>
