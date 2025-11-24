@@ -1,5 +1,5 @@
 Hi, I'm Maitrayee Anand Vishnu
-<div align="center">
+
 🚀 About Me
 I'm a results-driven FP&A professional currently pursuing my MS in Finance at Stevens Institute of Technology. With 3+ years of experience at JP Morgan Chase, I specialize in transforming complex financial data into strategic insights that drive business decisions.
 
